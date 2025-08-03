@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krrish Lala</h1>
 <h3 align="center">Computer Engineering Freshman @UWaterloo</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l-krrish" alt="l-krrish" /></a> </p>
-
 - 🔭 I’m currently working on [a chatbot](xyz.com)
 
 - 🌱 I’m currently learning **Angular**
