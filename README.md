@@ -2,11 +2,11 @@
 
 <div align="center">
 
-## 👋 Hello, my name is <a href="https://krrishlala.github.io/" target="_blank">Krrish Lala</a>
+## 👋 Hello, my name is <a href="https://l-krrish.github.io/portfolio/" target="_blank">Krrish Lala</a>
 
 ### 💻 Computer Engineering @ University of Waterloo
 
-![Views Badge](https://komarev.com/ghpvc/?username=l-krrish&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-krrishlala.github.io-blue)](https://krrishlala.github.io)
+![Views Badge](https://komarev.com/ghpvc/?username=l-krrish&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-krrishlala.github.io-blue)](https://l-krrish.github.io/portfolio/)
 
 </div>
 
