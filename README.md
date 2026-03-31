@@ -71,16 +71,14 @@ ECE 198 Arduino project designed for Grand River Hospital patients, providing th
 
 ## GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=l-krrish&show_icons=true&theme=one_dark_pro&hide_title=true&card_width=100px&border_radius=30&hide_border=true" width="360px" alt="github stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=l-krrish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l-krrish&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l-krrish&theme=one-dark-pro&border_radius=30&hide_border=true" width="400px" alt="github streak" />
-
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-krrish&layout=compact&langs_count=12&hide_title=true&theme=one_dark_pro&border_radius=30&hide_border=true" width="275px" alt="top languages" />
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-krrish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</p>
 
 ---
 
