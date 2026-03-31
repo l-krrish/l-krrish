@@ -72,12 +72,12 @@ ECE 198 Arduino project designed for Grand River Hospital patients, providing th
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=l-krrish&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=l-krrish&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-krrish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" height="170"/>
 </p>
 
 ---
