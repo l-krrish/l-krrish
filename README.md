@@ -6,7 +6,7 @@
 
 ### 💻 Computer Engineering @ University of Waterloo
 
-![Views Badge](https://komarev.com/ghpvc/?username=l-krrish&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-l-krrish.github.io/portfolio-blue)](https://l-krrish.github.io/portfolio/)
+![Views Badge](https://komarev.com/ghpvc/?username=l-krrish&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-l--krrish.github.io%2Fportfolio-blue)](https://l-krrish.github.io/portfolio/)
 
 </div>
 
@@ -102,4 +102,4 @@ ECE 198 Arduino project designed for Grand River Hospital patients, providing th
 
 Always open to discussing AI, ASIC design, Formula 1, or collaboration on interesting projects!
 
-[Email](mailto:k2lala@uwaterloo.ca) - [Website](https://krrishlala.github.io) - [LinkedIn](https://www.linkedin.com/in/krrish-lala) - [GitHub](https://github.com/l-krrish) - [Substack](https://substack.com/@krrishlala)
+[Email](mailto:k2lala@uwaterloo.ca) - [Website](https://l-krrish.github.io/portfolio/) - [LinkedIn](https://www.linkedin.com/in/krrish-lala) - [GitHub](https://github.com/l-krrish) - [Substack](https://substack.com/@krrishlala)
