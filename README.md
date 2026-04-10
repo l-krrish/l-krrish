@@ -6,7 +6,7 @@
 
 ### 💻 Computer Engineering @ University of Waterloo
 
-![Views Badge](https://komarev.com/ghpvc/?username=l-krrish&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-l--krrish.github.io%2Fportfolio-blue)](https://l-krrish.github.io/portfolio/)
+![Views Badge](https://komarev.com/ghpvc/?username=l-krrish&label=Profile%20views&color=0e75b6&style=flat) [![Website Badge](https://img.shields.io/badge/Website-l--krrish.github.io%2F-blue)](https://l-krrish.github.io)
 
 </div>
 
