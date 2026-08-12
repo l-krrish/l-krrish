@@ -15,7 +15,7 @@
 ## About Me
 
 - Computer Engineering student at the **University of Waterloo** (k2lala@uwaterloo.ca)
-- Incoming Research Software Developer @ Institute For Quantum Computing (UWaterloo) (Fall 2026)
+- Incoming Research and Firmware Software Developer @ Institute For Quantum Computing (UWaterloo) (Fall 2026)
 - Member of [UW ASIC Design Team](https://uwaterloo.ca), working through analog design curriculum (op-amps, differential pairs, Sky130 PDK)
 - Previously interned at BMS Solutions in Dubai
 - Passionate about AI/ML (since 8th grade), ASIC design, high-performance computing, and systems programming
